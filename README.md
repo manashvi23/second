@@ -1,2 +1,3 @@
 # second
-adding a readme file to my repo
+adding a readme file to my repo.
+starting with github
